@@ -16,10 +16,10 @@ We then used the updated information for Thomas High School to get the district 
 
 ### From the School Summary
 Figure 1: Thomas High School Before Updates
-![](Resources/Fig1_THS_Before.png)
+![](./Resources/Fig1_THS_Before.png)
 
 Figure 2: Thomas High School After Updates
-![](Resources/Fig2_THS_After.png)
+![](./Resources/Fig2_THS_After.png)
 
 Looking at the metrics before and after removing the ninth graders, we can see a few things that changed:
 - The average math score decreased by 0.1
@@ -32,10 +32,10 @@ Looking at the metrics before and after removing the ninth graders, we can see a
 ### From the District Summary
 
 Figure 3: District Summary Before Updates
-![](Resources/Fig3_DistrictSummary.png)
+![](./Resources/Fig3_DistrictSummary.png)
 
 Figure 4: District Summar After Updates
-![](Resources/Fig4_updated_DistrictSummary.png)
+![](./Resources/Fig4_updated_DistrictSummary.png)
 
 For the district summary, we saw a slightly different impact:
 - The average math score decreased by 0.1
