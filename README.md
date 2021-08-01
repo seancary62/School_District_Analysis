@@ -17,7 +17,7 @@ We then used the updated information for Thomas High School to get the district 
 ### From the School Summary
 Figure 1: Thomas High School Before Updates
 ![](./Resources/Fig1_THS_Before.png)
-<img src="Resources/Fig1_THS_Before.png" height="100"/>
+<img src="./Resources/Fig1_THS_Before.png" height="100"/>
 
 Figure 2: Thomas High School After Updates
 ![](/Resources/Fig2_THS_After.png)
